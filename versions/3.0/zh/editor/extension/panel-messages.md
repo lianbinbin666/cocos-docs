@@ -71,7 +71,7 @@ exports.close() {
     Editor.Message.send(packageJSON.name, 'upload', 'subTab', 0);
 };
 ```
-
+eee
 ## 发送消息
 
 当定义好扩展和扩展里的面板后，就可以尝试触发这些消息。
